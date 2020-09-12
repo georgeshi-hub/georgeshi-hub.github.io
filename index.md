@@ -1,6 +1,6 @@
 # *Journey to Clinical Data Science*
 
-#### Welcome to my site! I believe in the power of healthcare data for better diagnosis and personalized treatment. This site records my journey.
+Welcome to my site! I believe in the power of healthcare data for better diagnosis and personalized treatment. This site records my journey.
 
 ## My Interests
 
