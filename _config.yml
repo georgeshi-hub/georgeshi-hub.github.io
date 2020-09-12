@@ -2,8 +2,7 @@ theme: jekyll-theme-minimal
 
 # Site wide configuration
 
-title: *Personal Website* >
-George Shi
+title: Personal Website - George Shi
 locale: en_US
 logo: asset/img/road.jpg
 # Author Settings
