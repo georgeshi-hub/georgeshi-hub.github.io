@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 
 title: Personal Website of George Shi
 locale: en_US
-logo: bio-photo.jpg
+logo: /asset/bio-photo.jpg
