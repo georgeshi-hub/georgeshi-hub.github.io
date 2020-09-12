@@ -1,6 +1,8 @@
-# George Shi | Product Management, Clinical Data Science
+# Journey to Clinical Data Science
 
+# About George Shi
 ## Senior Product Manager, Abbott Diagnostics https://www.linkedin.com/in/georgeshi/
+
 ### Interests
 #### Chronic disease managament (liver, cancer)
 #### Clinical lab test utilization
