@@ -4,10 +4,10 @@ theme: jekyll-theme-minimal
 
 title: Personal Website of George Shi
 locale: en_US
-#logo: /image/bio-photo.jpg
+logo: image/bio-photo.jpg
 # Author Settings
 author: George Shi # add your name
-author-img: bio-photo.jpg # add your photo
+author-img: image/bio-photo.jpg # add your photo
 about-author: I am a digital health marketer and data scientist # add description
 social-github: georgeshi-hub # add your Github handle
 social-linkedin: georgeshi # add your Linkedin handle
