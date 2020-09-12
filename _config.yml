@@ -6,7 +6,7 @@ title: Personal Website of George Shi
 locale: en_US
 #logo: # filename of a logo image that has been placed into your images directory
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-leap-day
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
