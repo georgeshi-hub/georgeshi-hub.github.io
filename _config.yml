@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 
 title: Personal Website of George Shi
 locale: en_US
-logo: /image/bio-photo.jpg
+logo: /asset/img/bio_photo.jpg
 # Author Settings
 author: George Shi # add your name
 author-img: image/bio-photo.jpg # add your photo
