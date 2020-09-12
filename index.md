@@ -1,13 +1,13 @@
-# Journey to Clinical Data Science
+# *Journey to Clinical Data Science*
 
 ## About George Shi
 ### Currently a Senior Product Manager, Abbott Diagnostics [LinkedIn](https://www.linkedin.com/in/georgeshi/)
-### Experience in software product marketing and software engineering.
-### Live in greater Chicago area, IL.
+### Experience in software product marketing and software engineering. Living in greater Chicago area, IL.
 
 ## Interests
-### Chronic disease managament
-### Clinical data science, machine learning and visualization
+Chronic disease managament
+Clinical data science, machine learning and visualization
+Python, R.
 
 ## Projects
 
