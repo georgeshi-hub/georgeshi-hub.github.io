@@ -1,13 +1,15 @@
-# Journey to Clinical Data Science
+# George Shi | Product Management, Clinical Data Science
 
-## Welcome to this site showcasing my recent works. I believe the healthcare tomorrow will rely heavily on data for precise and personalized diagnosis and treatment. I hope this site can record my journey of exploring clinical data science and share my works with you. 
+## Senior Product Manager, Abbott Diagnostics https://www.linkedin.com/in/georgeshi/
+### Interests
+#### Chronic disease managament (liver, cancer)
+#### Clinical lab test utilization
+#### Data tools: machine learning, visualization, pytorch/keras
 
 ### Projects
 
-#### Traumatic Brain Injury ICU Mortality Prediction
+#### Traumatic Brain Injury ICU Mortality Prediction https://georgeshi-hub.github.io/TBI-ML/
 
-#### Histopathologic Cancer Detection
+#### Histopathologic Cancer Detection https://github.com/georgeshi-hub/kaggle-cancer-detection
 
 #### PyTorch 3D Medical Image Analysis
-
-### About Me
