@@ -1,13 +1,12 @@
 # *Journey to Clinical Data Science*
 
-## About George Shi
-### Currently a Senior Product Manager, Abbott Diagnostics [LinkedIn](https://www.linkedin.com/in/georgeshi/)
-### Experience in software product marketing and software engineering. Living in greater Chicago area, IL.
+## Welcome to my site! I believe in the power of healthcare data for better diagnosis and personalized treatment. This site records my journey.
 
-## Interests
-Chronic disease managament
-Clinical data science, machine learning and visualization
-Python, R.
+## My Interests
+
+- Clinical data science using RWD and informatics
+- Chronic disease managament
+- Sequencing data analysis
 
 ## Projects
 
@@ -17,5 +16,9 @@ Using machine learning to train a model for TBI patient mortality rate in ICU. M
 ### [Histopathologic Cancer Detection](https://github.com/georgeshi-hub/kaggle-cancer-detection)
 Using Keras for cancer histopathologic image classification. Kaggle dataset. 
 
-### PyTorch 3D Medical Image Analysis
+### [PyTorch 3D Medical Image Analysis](https://github.com/georgeshi-hub/PyTorch3D-Medica-Image-Analysis)
 Pytorch image classification for IXI dataset.
+
+## About George Shi
+Currently a Senior Product Manager, Abbott Diagnostics [LinkedIn](https://www.linkedin.com/in/georgeshi/)
+Experience in software product marketing and software engineering. Living in greater Chicago area, IL.
