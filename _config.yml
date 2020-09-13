@@ -7,7 +7,7 @@ locale: en_US
 logo: asset/img/IMG_2924.PNG
 # Author Settings
 author: George Shi # add your name
-author-img: image/bio-photo.jpg # add your photo
+author-img: asset/img/IMG_2924.PNG # add your photo
 about-author: I am a digital health marketer and data scientist # add description
 social-github: georgeshi-hub # add your Github handle
 social-linkedin: georgeshi # add your Linkedin handle
